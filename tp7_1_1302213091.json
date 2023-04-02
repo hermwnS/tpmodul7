@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TP_MOD7_KPL_1302213091_TRIANI_PUTRI_MUMPUNI_AFF.DataMahasiswa1302213091
+{
+    class tp7_1_1302213091
+  {
+    "nama": {
+      "depan": "Triani",
+      "belakang": "Putri Mumpuni"
+    },
+    "nim": 1302213091,
+    "fakultas": "Informatika"
+  }
+}
