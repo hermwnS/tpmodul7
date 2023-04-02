@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 using System.Text.Json;
 
@@ -48,3 +49,7 @@ class DataMahasiswa1302213080
     }
 
 }
+=======
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+>>>>>>> 2872a8067358070d28770f089305bec870f111f2
