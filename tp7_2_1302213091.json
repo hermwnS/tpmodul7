@@ -1,0 +1,46 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TP_MOD7_KPL_1302213091_TRIANI_PUTRI_MUMPUNI_AFF.KuliahMahasiswa1302213091
+{
+    class tp7_2_1302213091
+  {
+    "courses": [
+      {
+        "code": "CRI2C4",
+        "name": "Konstruksi Perangkat Lunak"
+      },
+      {
+        "code": "CII2B4",
+        "name": "Struktur Data"
+      },
+      {
+        "code": "CRI2E4",
+        "name": "Basis Data"
+      },
+      {
+        "code": "CRI2F2",
+        "name": "Proyek Tingkat II"
+      },
+      {
+        "code": "CRJ2A3",
+        "name": "Penjaminan Mutu Perangkat Lunak"
+      },
+      {
+        "code": "CRJ2G3",
+        "name": "Dasar Jaringan Komputer"
+      },
+      {
+        "code": "CRJ2H3",
+        "name": "Pengalaman Pengguna"
+      },
+      {
+        "code": "CRJ4C1",
+        "name": "Teknologi Perangkat Lunak Untuk Masyarakat"
+      }
+    ]
+  }
+}
